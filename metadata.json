@@ -1,0 +1,6 @@
+{
+  "name": "Huszár Attila - Az Utolsó Ördögűző",
+  "description": "Hivatalos pátyi okkult szolgáltatói és démonológiai ügyfélszolgálat. Rontáslevétel, védelem, energetikai tisztítás és rituálék.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
